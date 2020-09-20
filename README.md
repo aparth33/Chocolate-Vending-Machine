@@ -12,6 +12,7 @@ LED’s are used as indicators to show if any of the chocolates being vended are
 User Interface:
 
 
+![chocolate](screenshots/chocolate_0.png)
 
 ![chocolate](screenshots/chocolate_1.png)
 
