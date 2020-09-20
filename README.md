@@ -13,4 +13,12 @@ User Interface:
 
 
 
-![chocolate](https://user-images.githubusercontent.com/47942134/90091547-54e48b00-dd44-11ea-91eb-321f624e0431.JPG)
+![chocolate](screenshots/chocolate_1.png)
+
+![chocolate](screenshots/chocolate_2.png)
+
+![chocolate](screenshots/chocolate_3.png)
+
+![chocolate](screenshots/chocolate_4.png)
+
+![chocolate](screenshots/chocolate_5.png)
