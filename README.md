@@ -1,6 +1,6 @@
 # Chocolate-Vending-Machine
 Project done during coursework of Microprocessor and Interfacing
-git remote add origin https://github.com/aparth33/Chocolate-Vending-Machine.git
+
 PROBLEM:
 DESCRIPTION:This automatic machine vendthree different types of chocolates.
 Perk: Rs. 5.00
